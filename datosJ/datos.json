@@ -6,7 +6,22 @@
     "cola": [
       {
         "idPaciente": 3,
-        "nombre": "Victor Johan Palma Fabiel",
+        "nombre": "Victor Johan Palma",
+        "numero": 1
+      },
+      {
+        "idPaciente": 4,
+        "nombre": "Prandi Fabiel Cortorreal",
+        "numero": 1
+      },
+      {
+        "idPaciente": 5,
+        "nombre": "Alvaro Hernandez",
+        "numero": 1
+      },
+      {
+        "idPaciente": 6,
+        "nombre": "Frankelyn Garcia Garcia",
         "numero": 1
       },
       { "idPaciente": 2, "nombre": "Dahian Amarante", "numero": 1 }
@@ -16,6 +31,29 @@
     "idDoctor": 2,
     "nombre": "Ramon Almanzar",
     "consultorio": "C2",
-    "cola": [{ "idPaciente": 2, "nombre": "Dahian Amarante", "numero": 1 }]
+    "cola": [
+      { "idPaciente": 2, "nombre": "Dahian Amarante", "numero": 1 },
+      {
+        "idPaciente": 3,
+        "nombre": "Victor Johan Palma",
+        "numero": 1
+      },
+      {
+        "idPaciente": 4,
+        "nombre": "Prandi Fabiel Cortorreal",
+        "numero": 1
+      },
+      {
+        "idPaciente": 5,
+        "nombre": "Alvaro Hernandez",
+        "numero": 1
+      },
+      {
+        "idPaciente": 6,
+        "nombre": "Frankelyn Garcia Garcia",
+        "numero": 1
+      },
+      { "idPaciente": 2, "nombre": "Dahian Amarante", "numero": 1 }
+    ]
   }
 ]
